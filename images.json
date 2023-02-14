@@ -1,0 +1,34 @@
+{
+    "images": [
+        {
+            "imgPath": "img/places/sabertooth.png",
+            "imgLocation": "throughout North and South America",
+            "description": "carnivores named for the elongated bladelike canine teeth, which in some species were up to 50cm long",
+            "date": "55 million to 11,700 years ago"
+        },
+        {
+            "imgPath": "img/places/WoolyMammoth.png",
+            "imgLocation": "Eurasia and North America",
+            "description": "an enormous mammal, believed to be closely related to the modern-day elephant",
+            "date": "disappeared 10,000 years ago"
+        },
+        {
+            "imgPath": "img/places/dodo.png",
+            "imgLocation": "Island of Mauritius",
+            "description": "an extinct flightless bird that inhabited Mauritius, the Dodo was about one meter tall and may have weighed 10–18 kg",
+            "date": "the last widely accepted sighting of a Dodo was in 1662"
+        },
+        {
+            "imgPath": "img/places/Great-Auk.png",
+            "imgLocation": "North Atlantic and as far south as Northern Spain",
+            "description": "a large and flightless bird that was a powerful swimmer which helped it to hunt underwater for food",
+            "date": "the last of these birds was killed by three men who caught it on St Kilda, Scotland in 1844"
+        },
+        {
+            "imgPath": "img/places/stellers-sea-cow.png",
+            "imgLocation": "inhabited the Near Islands, southwest of Alaska and the Commander Islands in the Bering Sea",
+            "description": "large herbivorous mammal that is believed that Stellers Sea Cow which grew to at least 8-9 meters and weighed around 8-10 tons",
+            "date": "named after George Steller, a naturalist who discovered the creature in 1741, and hunted to extinction within 27 years of discovery"
+        }
+  ]
+}
