@@ -83,7 +83,10 @@ var mJson = "";
 
 // URL for the JSON to load by default
 // Some options for you are: images.json, images.short.json; you will need to create your own extra.json later
+
+//IF ONE OF THESE FILES DOESN'T WORK IT WILL DIRECT TO THE OTHER - Part 5
 var mUrl = 'images.json';
+var mUrl = "https://api.npoint.io/a0348fe320059868224b";
 
 function fetchJSON() {
   mRequest.onreadystatechange = function () {
@@ -183,6 +186,7 @@ $(document).ready(function() {
 	  swapPhoto();
   });
 });
+
 
 $(document).ready(function() {
   $("#prevPhoto").click(function() {
